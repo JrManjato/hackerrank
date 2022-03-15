@@ -23,5 +23,5 @@ function diagonalDifference(arr) {
      
     return result;
  }
- console.log(diagonalDifference(arr));
+  console.log(diagonalDifference(arr));
 
